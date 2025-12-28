@@ -174,6 +174,16 @@ This project is intended for educational and demonstration purposes.
 It is not a certified medical system.
 
 ---
+
+## 📄 License
+This project is licensed under the **MIT License**.
+You are free to:
+- Use the project for personal or commercial purposes
+- Modify and distribute the code
+- Use it in your own projects with proper attribution
+See the [LICENSE](LICENSE) file for full details.
+---
+
 ## 👨‍💻 Author
 
 **[Badhon Acharia](https://octteen.com/badhonacharia/)**
@@ -183,3 +193,4 @@ Web Developer | PHP | WordPress | Backend System
 **[GitHub](https://github.com/badhonacharia/)**   **[Portfolio](https://octteen.com/badhonacharia/)**
 
 ---
+
